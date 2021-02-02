@@ -186,8 +186,24 @@ nav {
 .get-btn {
   padding: 1.3rem;
   color: white;
+  width: 10%;
   border-radius: 50px;
   border: 2px solid white;
   background-color: transparent;
   outline: none;
+}
+.footer {
+  height: 500px;
+  background-color: var(--Darkblue);
+}
+.foot-line {
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.footer h2 {
+  text-align: center;
+  color: #1e90ff;
+  font-size: xxx-large;
 }
